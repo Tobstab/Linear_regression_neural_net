@@ -41,7 +41,7 @@ As you can see from the graph below an epoch rage of 1000 to 1500 seemed to have
 
 # See Complete report for comparisons of different neural network techniques
 
-Part 5 – conclusion
+## Part 5 – conclusion
 The table shows the comparisons between the 6 best improvements that I had found. From the table below the best percentage error found was within the model an increased learning rate using the sigmoid activation function. While the model with the smallest root mean squared error was the Normal Tanh-1 model.
 
 ![image](https://user-images.githubusercontent.com/9751439/217945819-c3326790-e69d-4306-a0f9-cecc9cd18612.png)
